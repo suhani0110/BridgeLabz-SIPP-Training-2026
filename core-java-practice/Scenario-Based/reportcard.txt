@@ -1,0 +1,16 @@
+===== REPORT CARD =====
+
+Name: Alice
+Average Marks: 87.67
+Result: PASS
+------------------------
+
+Name: Bob
+Average Marks: 80.00
+Result: PASS
+------------------------
+
+Name: Charlie
+Average Marks: 92.00
+Result: PASS
+------------------------
